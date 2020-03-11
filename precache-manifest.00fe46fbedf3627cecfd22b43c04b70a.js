@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bda056f56cd6bd00ed299a87682b891",
+    "revision": "5974bdb0ff389f27f7fd0a4dac707905",
     "url": "/matiasmoron-cv/index.html"
   },
   {
-    "revision": "719e9321183a84ecdcc3",
+    "revision": "db86a3af0cab9828392d",
     "url": "/matiasmoron-cv/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "5b28968f9ea1fae9cabc",
-    "url": "/matiasmoron-cv/static/js/2.107e50a9.chunk.js"
+    "revision": "91fa59edf16e6398359b",
+    "url": "/matiasmoron-cv/static/js/2.643fceaf.chunk.js"
   },
   {
     "revision": "5356fa2f66e46e6c05e4cbe319ac7f1d",
-    "url": "/matiasmoron-cv/static/js/2.107e50a9.chunk.js.LICENSE.txt"
+    "url": "/matiasmoron-cv/static/js/2.643fceaf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "719e9321183a84ecdcc3",
-    "url": "/matiasmoron-cv/static/js/main.9cadfba0.chunk.js"
+    "revision": "db86a3af0cab9828392d",
+    "url": "/matiasmoron-cv/static/js/main.f8f85d3f.chunk.js"
   },
   {
     "revision": "2903ffff7265440bb23d",

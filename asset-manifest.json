@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/matiasmoron-cv/static/css/main.5f361e03.chunk.css",
-    "main.js": "/matiasmoron-cv/static/js/main.9cadfba0.chunk.js",
-    "main.js.map": "/matiasmoron-cv/static/js/main.9cadfba0.chunk.js.map",
+    "main.js": "/matiasmoron-cv/static/js/main.f8f85d3f.chunk.js",
+    "main.js.map": "/matiasmoron-cv/static/js/main.f8f85d3f.chunk.js.map",
     "runtime-main.js": "/matiasmoron-cv/static/js/runtime-main.2ec8256b.js",
     "runtime-main.js.map": "/matiasmoron-cv/static/js/runtime-main.2ec8256b.js.map",
-    "static/js/2.107e50a9.chunk.js": "/matiasmoron-cv/static/js/2.107e50a9.chunk.js",
-    "static/js/2.107e50a9.chunk.js.map": "/matiasmoron-cv/static/js/2.107e50a9.chunk.js.map",
+    "static/js/2.643fceaf.chunk.js": "/matiasmoron-cv/static/js/2.643fceaf.chunk.js",
+    "static/js/2.643fceaf.chunk.js.map": "/matiasmoron-cv/static/js/2.643fceaf.chunk.js.map",
     "index.html": "/matiasmoron-cv/index.html",
-    "precache-manifest.073e13cc011c5a3b5771c024f2979468.js": "/matiasmoron-cv/precache-manifest.073e13cc011c5a3b5771c024f2979468.js",
+    "precache-manifest.00fe46fbedf3627cecfd22b43c04b70a.js": "/matiasmoron-cv/precache-manifest.00fe46fbedf3627cecfd22b43c04b70a.js",
     "service-worker.js": "/matiasmoron-cv/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/matiasmoron-cv/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.107e50a9.chunk.js.LICENSE.txt": "/matiasmoron-cv/static/js/2.107e50a9.chunk.js.LICENSE.txt",
+    "static/js/2.643fceaf.chunk.js.LICENSE.txt": "/matiasmoron-cv/static/js/2.643fceaf.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/matiasmoron-cv/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2ec8256b.js",
-    "static/js/2.107e50a9.chunk.js",
+    "static/js/2.643fceaf.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9cadfba0.chunk.js"
+    "static/js/main.f8f85d3f.chunk.js"
   ]
 }
