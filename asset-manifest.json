@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/matiasmoron/matiasmoron-cv/static/css/main.5f361e03.chunk.css",
+    "main.js": "/matiasmoron/matiasmoron-cv/static/js/main.3d29d264.chunk.js",
+    "main.js.map": "/matiasmoron/matiasmoron-cv/static/js/main.3d29d264.chunk.js.map",
+    "runtime-main.js": "/matiasmoron/matiasmoron-cv/static/js/runtime-main.282cd464.js",
+    "runtime-main.js.map": "/matiasmoron/matiasmoron-cv/static/js/runtime-main.282cd464.js.map",
+    "static/js/2.107e50a9.chunk.js": "/matiasmoron/matiasmoron-cv/static/js/2.107e50a9.chunk.js",
+    "static/js/2.107e50a9.chunk.js.map": "/matiasmoron/matiasmoron-cv/static/js/2.107e50a9.chunk.js.map",
+    "index.html": "/matiasmoron/matiasmoron-cv/index.html",
+    "precache-manifest.401d3a869af33e7c042217475bb2a5f0.js": "/matiasmoron/matiasmoron-cv/precache-manifest.401d3a869af33e7c042217475bb2a5f0.js",
+    "service-worker.js": "/matiasmoron/matiasmoron-cv/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/matiasmoron/matiasmoron-cv/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.107e50a9.chunk.js.LICENSE.txt": "/matiasmoron/matiasmoron-cv/static/js/2.107e50a9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/matiasmoron/matiasmoron-cv/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.282cd464.js",
+    "static/js/2.107e50a9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3d29d264.chunk.js"
+  ]
+}
